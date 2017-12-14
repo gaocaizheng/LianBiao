@@ -1,6 +1,9 @@
 #include <iostream>
 #include <stdlib.h>
 using namespace std ;
+
+
+
 int a []  = {0,1,8,9,10,2,6,13,22};
 int m  = 4 , n = 4 ;
 typedef struct LNode
